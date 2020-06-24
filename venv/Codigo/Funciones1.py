@@ -27,4 +27,6 @@ multiplicacion(6,5)
 
 print(2+multiplicacion(2,3))
 
-#crear una funcion para el area de un cuadrado, rectangulo, triangulo
+# crear una funcion para el area de un cuadrado, rectangulo, triangulo [Hecho]
+# Ingresar 2 numeros y si el primer numero es mayor que el segundo debe devolver un uno,
+# segundo es mayor al prmero = -1 y si son iguales 0;
