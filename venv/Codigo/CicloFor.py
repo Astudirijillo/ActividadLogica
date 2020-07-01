@@ -27,3 +27,11 @@ for x in range(var1):
     lista.append(1+contador)
 
 print("tamaño lista es: ",len(lista))
+
+lista_numero_pares=[]
+contador1 = 0
+for i in range(11):
+    if(i%2==0):
+        lista_numero_pares.append(i)
+
+print("Numeros pares: ",lista_numero_pares)
